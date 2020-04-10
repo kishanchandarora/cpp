@@ -11,7 +11,7 @@
 using namespace std;
 
 int main() {
-	class Date d2;
+	Date d2;
 	class Date d1(03, 12, 1996);
 	cout<<"Lalit birth date is : ";
 	d1.printDate();
