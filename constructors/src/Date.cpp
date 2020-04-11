@@ -13,6 +13,7 @@ Date::Date() {
 	this->day = 14;
 	month = 10;
 	year = 1996;
+
 	// TODO Auto-generated constructor stub
 
 }
